@@ -1,0 +1,203 @@
+{
+    "nuraproducts": [
+      {
+        "id": 1,
+        "name": "Brown paperbag  pencil skirt",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-4.jpg",
+        "category":"skirt",
+        "price":60,
+        "brand":"zara",
+        "color":"brown",
+        "size":"m",
+        "rate":5
+      },
+      {
+        "id": 2,
+        "name": "Dark yellow lace cut out dress",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-5.jpg",
+        "category":"dresses",
+        "price":80,
+        "brand":"berska",
+        "color":"yellow",
+        "size":"s" ,
+        "rate":5
+      },
+      {
+        "id": 3,
+        "name": "Khaki utility boiler jumpsuit",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-6.jpg",
+        "category":"jackets",
+        "price":120,
+        "brand":"zara",
+        "color":"green",
+        "size":"m",
+        "rate":5
+      },
+      {
+        "id": 4,
+        "name": "Blue denim dress",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-7.jpg",
+        "category":"jeans",
+        "price":76,
+        "brand":"DeFacto",
+        "color":"blue",
+        "size":"s",
+        "rate":1 
+      },
+      {
+        "id": 5,
+        "name": "Beige runner shoes",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlAZLC7t-0BMM8ISGNocOnlyIM_fwdj6DjWg&usqp=CAU",
+        "category":"shoes",
+        "price":84,
+        "brand":"pull&bear",
+        "color":"beige",
+        "size":"m",
+        "rate":5 
+      },
+      {
+        "id": 6,
+        "name": "Orange  lock  bag",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-9.jpg",
+        "category":"bags",
+        "price":89,
+        "brand":"zara",
+        "color":"orange",
+        "size":"s",
+        "rate":5 
+      },
+      {
+        "id": 7,
+        "name": "Light brown studded Wide fit wedges",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-11.jpg",
+        "category":"shoes",
+        "price":110,
+        "brand":"berska",
+        "color":"brown",
+        "size":"l",
+        "rate":1
+      },
+      {
+        "id": 8,
+        "name": "Yellow button front tea top",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-10.jpg",
+        "category":"jumpers",
+        "price":56,
+        "brand":"zara",
+        "color":"yellow",
+        "size":"xs" ,
+        "rate":1
+      },
+      {
+        "id": 9,
+        "name": "Black soft RI weekend travel bag",
+        "image": "https://portotheme.com/html/molla/assets/images/products/product-12.jpg",
+        "category":"bags",
+        "price":68,
+        "brand":"DeFacto",
+        "color":"black",
+        "size":"m",
+        "rate":5 
+      },
+      {
+        "id": 10,
+        "name": "Linen-blend dress",
+        "image": "https://portotheme.com/html/molla/assets/images/popup/quickView/1.jpg",
+        "category":"dresses",
+        "price":54,
+        "brand":"zara",
+        "color":"yellow",
+        "size":"s" ,
+        "rate":5
+      },
+      {
+        "id": 11,
+        "name": "Winter Boots",
+        "image": "https://cdn.dsmcdn.com/ty1038/product/media/images/prod/SPM/PIM/20231110/20/64db04c1-d179-3282-9813-107f1274bac5/1_org_zoom.jpg",
+        "category":"shoes",
+        "price":69,
+        "brand":"De facto",
+        "color":"black",
+        "size":"l" ,
+        "rate":1
+      },
+      {
+        "id": 12,
+        "name": "Mini Urban Crossbody Bag",
+        "image": "https://cdn.dsmcdn.com/ty968/product/media/images/20230718/9/394671487/979498399/1/1_org_zoom.jpg",
+        "category":"bags",
+        "price":24,
+        "brand":"pull&bear",
+        "color":"black",
+        "size":"m" ,
+        "rate":5
+      },
+      {
+        "id": 13,
+        "name": "Wena Bags Belt Detailed Bag",
+        "image": "https://cdn.dsmcdn.com/ty968/product/media/images/20230718/10/394692914/979528814/1/1_org_zoom.jpg",
+        "category":"bags",
+        "price":38,
+        "brand":"pull&bear",
+        "color":"green",
+        "size":"m" ,
+        "rate":5
+      },
+      {
+        "id": 14,
+        "name": "Houndstooth belt miniskirt",
+        "image": "https://st.mngbcn.com/rcs/pics/static/T5/fotos/S20/57083801_30_D6.jpg?ts=1686036933228&imwidth=247&imdensity=2",
+        "category":"skirt",
+        "price":49,
+        "brand":"mango",
+        "color":"brown",
+        "size":"xs",
+        "rate":1
+      },
+      {
+        "id": 15,
+        "name": "Stretch mid-heel boots",
+        "image": "https://cdn.dsmcdn.com/ty684/product/media/images/20230112/17/257361469/673137730/1/1_org_zoom.jpg",
+        "category":"shoes",
+        "price":98,
+        "brand":"berska",
+        "color":"black",
+        "size":"l",
+        "rate":1
+      },
+      {
+        "id": 16,
+        "name": "Women's Faux Leather Bag",
+        "image": "https://cdn.dsmcdn.com/ty953/product/media/images/20230615/1/385666518/968777665/1/1_org_zoom.jpg",
+        "category":"bags",
+        "price":30,
+        "brand":"DeFacto",
+        "color":"white",
+        "size":"m",
+        "rate":1
+      },
+      {
+        "id": 17,
+        "name": "Embroidered Shirt Dress",
+        "image": "https://cdn.dsmcdn.com/ty333/product/media/images/20220216/16/51175142/388955323/1/1_org_zoom.jpg",
+        "category":"dresses",
+        "price":98,
+        "brand":"mango",
+        "color":"white",
+        "size":"s",
+        "rate":1 
+      },
+      {
+        "id": 18,
+        "name": "High Straight Cut Jean",
+        "image": "https://cdn.dsmcdn.com/mnresize/1200/1800/ty721/product/media/images/20230207/20/277152362/552664907/1/1_org_zoom.jpg",
+        "category":"jeans",
+        "price":65,
+        "brand":"mango",
+        "color":"blue",
+        "size":"xl",
+        "rate":5 
+      }
+  
+    ]
+  }
